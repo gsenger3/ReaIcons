@@ -22,9 +22,9 @@ Below is a list of the icons currently available in this collection, along with 
 
 ## How to Use
 
-- Copy the `[icon_name]_90` to `[Reaper Resource Path]/Data/toolbar_icons`
-- Copy the `[icon_name]_150` to `[Reaper Resource Path]/Data/toolbar_icons/150`
-- Copy the `[icon_name]_200` to `[Reaper Resource Path]/Data/toolbar_icons/200`
+- Copy the `[icon_name]_90.png` to `[Reaper Resource Path]/Data/toolbar_icons`
+- Copy the `[icon_name]_150.png` to `[Reaper Resource Path]/Data/toolbar_icons/150`
+- Copy the `[icon_name]_200.png` to `[Reaper Resource Path]/Data/toolbar_icons/200`
 
 ## License
 
